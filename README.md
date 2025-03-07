@@ -1,12 +1,14 @@
 # Asteroids-Orbits-Data
 <p align="center">
-  <img width="800" height="500" src="https://github.com/dg2c4/Asteroids-Orbits-Data/blob/main/Assets/Asteroids-Orbits-Dataset.webp" alt="Penguin-Species-Clasification-Illustration">
+  <img width="800" height="550" src="https://github.com/dg2c4/Asteroids-Orbits-Data/blob/main/Assets/Asteroids-Orbits-Dataset.webp" alt="Penguin-Species-Clasification-Illustration">
 </p>
 
-### Detalles del proyecto final:
-• Usar un conjunto de datos de mínimo 2000 registros. \n
-• Hacer un análisis exploratorio de datos y preprocesamiento. \n
-• Crear un dashboard para presentar los resultados en PowerBi. \n
+## Detalles del proyecto final:
+• Usar un conjunto de datos de mínimo 2000 registros.
+
+• Hacer un análisis exploratorio de datos y preprocesamiento.
+
+• Crear un dashboard para presentar los resultados en PowerBi.
 
 ## *Objetivo:* 
 Realizar un análisis completo de un conjunto de datos de asteroides para identificar posibles riesgos de impacto con la Tierra, utilizando técnicas de análisis exploratorio, preprocesamiento y visualización de datos.
@@ -63,8 +65,6 @@ Contiene datos sobre posibles impactos de asteroides con la Tierra.
 ## Created By:
     https://github.com/dg2c4
 
-### *Date:* 06/03/2025 - 20/03/2025
-Avance Proyecto Final 10% 
+### *Date:* 06/03/2025 - 20/03/2025 Avance Proyecto Final 10%
 
-### *Date:* 20/03/2025 - 29/05/2025
-Presentación Proyecto final 20%
+### *Date:* 20/03/2025 - 29/05/2025 Presentación Proyecto final 20%
