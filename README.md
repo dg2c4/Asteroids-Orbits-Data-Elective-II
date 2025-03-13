@@ -4,8 +4,8 @@
 </p>
 
 ## *Detalles del proyecto final:*
-• Usar un conjunto de datos de mínimo 2000 registros. \\
-• Desarrollar un análisis exploratorio de datos y preprocesamiento. \\
+• Usar un conjunto de datos de mínimo 2000 registros.\
+• Desarrollar un análisis exploratorio de datos y preprocesamiento.\
 • Crear un dashboard en Power BI para presentar la visualización de los resultados.
 
 ## *Objetivo:* 
@@ -35,8 +35,8 @@ Contiene datos sobre posibles impactos de asteroides con la Tierra.
     https://www.kaggle.com/datasets/nasa/asteroid-impacts
     
 ## *Ejercicio:*
-  A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear. \\
-  B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos. \\
+  A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.\
+  B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos.\
   C. Debe realizar un dashboard en PowerBI o Tableau para exponer visualmente las conclusiones del análisis exploratorio.
     
 
