@@ -1,14 +1,12 @@
-# Asteroids-Orbits-Data
+# *Asteroids-Orbits-Data-Elective-II*
 <p align="center">
   <img width="800" height="550" src="https://github.com/dg2c4/Asteroids-Orbits-Data/blob/main/Assets/Asteroids-Orbits-Dataset.webp" alt="Penguin-Species-Clasification-Illustration">
 </p>
 
-## Detalles del proyecto final:
-• Usar un conjunto de datos de mínimo 2000 registros.
-
-• Hacer un análisis exploratorio de datos y preprocesamiento.
-
-• Crear un dashboard para presentar los resultados en PowerBi.
+## *Detalles del proyecto final:*
+• Usar un conjunto de datos de mínimo 2000 registros. \\
+• Desarrollar un análisis exploratorio de datos y preprocesamiento. \\
+• Crear un dashboard en Power BI para presentar la visualización de los resultados.
 
 ## *Objetivo:* 
 Realizar un análisis completo de un conjunto de datos de asteroides para identificar posibles riesgos de impacto con la Tierra, utilizando técnicas de análisis exploratorio, preprocesamiento y visualización de datos.
@@ -37,10 +35,8 @@ Contiene datos sobre posibles impactos de asteroides con la Tierra.
     https://www.kaggle.com/datasets/nasa/asteroid-impacts
     
 ## *Ejercicio:*
-  A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.
-  
-  B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos.
-  
+  A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear. \\
+  B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos. \\
   C. Debe realizar un dashboard en PowerBI o Tableau para exponer visualmente las conclusiones del análisis exploratorio.
     
 
@@ -67,4 +63,4 @@ Contiene datos sobre posibles impactos de asteroides con la Tierra.
 
 ### *Date:* 06/03/2025 - 20/03/2025 Avance Proyecto Final 10%
 
-### *Date:* 20/03/2025 - 29/05/2025 Presentación Proyecto final 20%
+### *Date:* 20/03/2025 - 27/05/2025 Presentación Proyecto final 20%
