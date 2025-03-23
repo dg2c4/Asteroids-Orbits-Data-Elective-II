@@ -3,13 +3,13 @@
   <img width="800" height="550" src="https://github.com/dg2c4/Asteroids-Orbits-Data/blob/main/Assets/Asteroids-Orbits-Dataset.webp" alt="Penguin-Species-Clasification-Illustration">
 </p>
 
-## Link del trabajo realizado:
+## Link video del avance realizado:
     https://youtu.be/tXVN02RuUNU
 
 <p align="center">
-  <video src="https://youtu.be/tXVN02RuUNU" width=400/>
+  <video src="https://github.com/dg2c4/Asteroids-Orbits-Data-Elective-II/blob/main/Assets/Presentaci%C3%B3n%20Avance_%20Proyecto%20Final_%20Visualizaci%C3%B3n%20De%20Datos.%20Electiva-II..mp4" width=400/>
 <p/>
-
+  
 ## *Detalles del proyecto final:*
 • Usar un conjunto de datos de mínimo 2000 registros.\
 • Desarrollar un análisis exploratorio de datos y preprocesamiento.\
