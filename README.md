@@ -1,14 +1,10 @@
 # *Asteroids-Orbits-Data-Elective-II*
 <p align="center">
-  <img width="800" height="550" src="https://github.com/dg2c4/Asteroids-Orbits-Data/blob/main/Assets/Asteroids-Orbits-Dataset.webp" alt="Penguin-Species-Clasification-Illustration">
+  <img width="800" height="550" src="https://github.com/dg2c4/Asteroids-Orbits-Data/blob/main/Assets/Asteroids-Orbits-Dataset.webp" alt="Asteroids-Orbits-Illustration">
 </p>
 
 ## Link video del avance realizado:
     https://youtu.be/tXVN02RuUNU
-
-<p align="center">
-  <video src="https://github.com/dg2c4/Asteroids-Orbits-Data-Elective-II/blob/main/Assets/Presentaci%C3%B3n%20Avance_%20Proyecto%20Final_%20Visualizaci%C3%B3n%20De%20Datos.%20Electiva-II..mp4" width=400/>
-<p/>
   
 ## *Detalles del proyecto final:*
 • Usar un conjunto de datos de mínimo 2000 registros.\
@@ -40,13 +36,18 @@ El trabajo se divide en tres componentes principales:
 Contiene datos sobre posibles impactos de asteroides con la Tierra.
 
     https://www.kaggle.com/datasets/nasa/asteroid-impacts
-    
+
+## *Visualización Datos PowerBI:*
+<p align="center">
+  <img width=800 height="550" src="https://github.com/dg2c4/Asteroids-Orbits-Data-Elective-II/blob/main/Assets/Graficos%20Orbits/DashboardPowerBI.png" alt="Dashboard-PowerBI">
+</p>
+
 ## *Ejercicio:*
   A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.\
   B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos.\
   C. Debe realizar un dashboard en PowerBI o Tableau para exponer visualmente las conclusiones del análisis exploratorio.
-    
 
+  
 ## *Evaluación:*
 | Ítem | Puntos |
 |------|--------|
