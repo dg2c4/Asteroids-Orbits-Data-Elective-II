@@ -5,11 +5,19 @@
 
 ## Link video del avance realizado:
     https://youtu.be/tXVN02RuUNU
+
+## Link del proyecto final realizado:
+    https://
   
 ## *Detalles del proyecto final:*
 • Usar un conjunto de datos de mínimo 2000 registros.\
 • Desarrollar un análisis exploratorio de datos y preprocesamiento.\
-• Crear un dashboard en Power BI para presentar la visualización de los resultados.
+• Crear un dashboard en Power BI para presentar la visualización de los resultados.\
+• KPIs (Key Performance Indicator).\
+• Graficas acordes al problema.\
+• Storytelling en la presentación.\
+• Análisis exploratorio de datos.\
+• Análisis de datos espaciales o temporales.
 
 ## *Objetivo:* 
 Realizar un análisis completo de un conjunto de datos de asteroides para identificar posibles riesgos de impacto con la Tierra, utilizando técnicas de análisis exploratorio, preprocesamiento y visualización de datos.
@@ -48,13 +56,22 @@ Contiene datos sobre posibles impactos de asteroides con la Tierra.
   C. Debe realizar un dashboard en PowerBI o Tableau para exponer visualmente las conclusiones del análisis exploratorio.
 
   
-## *Evaluación:*
+## *Evaluación: Avance Anteproyecto*
 | Ítem | Puntos |
 |------|--------|
 | Análisis exploratorio | 10 pts |
 | Preprocesamiento de los datos | 10 pts |
 | Visualización de datos con PowerBI | 20 pts |
 | Calidad de las visualizaciones y justificación | 10 pts |
+|Total | 50 pts |
+
+## *Evaluación: Entrega Proyecto FInal*
+| Ítem | Puntos |
+|------|--------|
+| Análisis exploratorio | 10 pts |
+| Analisis y procesamiento de los datos | 10 pts |
+| Visualización de datos con PowerBI | 15 pts |
+| Visualización de interfaz | 15 pts |
 |Total | 50 pts |
 
 ## *Systems engineering:*
@@ -71,4 +88,4 @@ Contiene datos sobre posibles impactos de asteroides con la Tierra.
 
 ### *Date:* 06/03/2025 - 20/03/2025 Avance Proyecto Final 10%
 
-### *Date:* 20/03/2025 - 27/05/2025 Presentación Proyecto final 20%
+### *Date:* 20/03/2025 - 29/05/2025 Entrega Proyecto final 20%
